@@ -1,0 +1,17 @@
+﻿# Python (Các file rác sinh ra khi chạy code)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# BẢO MẬT: Tuyệt đối không đưa Private Key lên GitHub
+backend/firebase-key.json
+
+# Các file tạm khác
+.DS_Store
+.env
+.vs
