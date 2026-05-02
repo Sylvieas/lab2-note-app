@@ -66,5 +66,5 @@ streamlit run frontend/app.py
 
 ## 🎥 Video Demo
 Dưới đây là đường dẫn video giới thiệu và hướng dẫn sử dụng ứng dụng
-👉 **[Xem Video Demo tại đây](Dán_Link_Của_Khoa_Vào_Đây)**
+👉 **https://youtu.be/Mg9jaZBxhfk**
 
