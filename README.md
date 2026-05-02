@@ -47,7 +47,7 @@ Di chuyển vào thư mục backend và khởi chạy server
 ```bash
 uvicorn backend.main:app --reload
 ```
-*Hệ thống sẽ chạy tại địa chỉ: `[http://127.0.0.1:8000](http://127.0.0.1:8000)`*
+*Hệ thống sẽ chạy tại địa chỉ: `http://127.0.0.1:8000/docs`*
 
 ### 3. Chạy Frontend (Streamlit)
 Mở một Terminal mới và khởi chạy giao diện
